@@ -1,7 +1,7 @@
 **Work in Progress**
 - 👋 Hi, I’m @0xsaltylollipop
 - 👀 I’m interested in Web3, Ai, Startups
-- 🌱 I’m currently learning computer science at Uni
+- 🌱 I’m currently studying computer science at Uni
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Twitter: @saltylollipop69 | Discord: saltylollipop
 
