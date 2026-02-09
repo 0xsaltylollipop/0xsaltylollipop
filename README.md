@@ -1,5 +1,7 @@
 Learning and exploring AI :))
 
+Below are some personal and Hackathon projects
+
 
 <!---
 0xsaltylollipop/0xsaltylollipop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
