@@ -1,6 +1,7 @@
 Learning and exploring AI :))
 
-Below are some personal and Hackathon projects that I workekd on / working on...
+Below are some personal and Hackathon projects that I worked on / working on...
+
 
 
 <!---
