@@ -1,5 +1,5 @@
 Learning and exploring AI :))
-
+Personal Site: https://janchen.xyz
 Below are some personal and Hackathon projects that I worked on / working on...
 
 
